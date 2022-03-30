@@ -20,3 +20,8 @@ tip. git commit만 치면 편집기 접속
 
 7. 변경내용 확인
 git diff
+
+8. git online 추가
+8-1. new repository 생성
+8-2. git remote add origin https://github.com/simonpsh87/git_test.git
+     git push origin master
