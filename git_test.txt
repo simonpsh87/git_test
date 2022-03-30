@@ -1,0 +1,17 @@
+1. git name, email 설정
+git config --global user.name simon
+git config --global user.email fgm0626@naver.com
+
+2. initialize repository
+
+3. git 상태 확인
+git status
+
+4. 해당 폴더에 있는 데이터 파일 추척(변경사항 -> 스테이징된 변경 사항)
+git add .
+
+5. 해당 파일 올리기(push)
+git commit -m "처음으로 파일 생성"
+
+tip. git commit만 치면 편집기 접속
+나오는 방법: (:wq)
