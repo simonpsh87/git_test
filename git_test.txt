@@ -27,4 +27,4 @@ git diff
      git push origin master
      
 9. git에서 변경할 경우
-git pull
+git pull origin master
